@@ -1,2 +1,2 @@
 # payme
-App for managing debts receivable
+App for managing debts receivable, with CRUD.
